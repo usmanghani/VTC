@@ -1,0 +1,5 @@
+0 - GUEST ACCOUNT: BASIC viewing rights only, no questions
+1 - GUEST ACCOUNT: viewing rights, ability to ask questions
+2 - Normal Viewer
+3 - Normal Presenter
+1024 - Administrator

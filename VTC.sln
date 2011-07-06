@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTCPresenter", "VTC\VTCPresenter.csproj", "{AB326352-EF4C-45E2-A0AF-932CF687BA05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTCServer", "VTCServer\VTCServer.csproj", "{7E703752-822F-49A1-A435-496B93A10C21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTCUser", "VTCUser\VTCUser.csproj", "{1B533FFA-225E-461B-84EC-4DF308394379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB326352-EF4C-45E2-A0AF-932CF687BA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB326352-EF4C-45E2-A0AF-932CF687BA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB326352-EF4C-45E2-A0AF-932CF687BA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB326352-EF4C-45E2-A0AF-932CF687BA05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E703752-822F-49A1-A435-496B93A10C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E703752-822F-49A1-A435-496B93A10C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E703752-822F-49A1-A435-496B93A10C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E703752-822F-49A1-A435-496B93A10C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B533FFA-225E-461B-84EC-4DF308394379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B533FFA-225E-461B-84EC-4DF308394379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B533FFA-225E-461B-84EC-4DF308394379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B533FFA-225E-461B-84EC-4DF308394379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
